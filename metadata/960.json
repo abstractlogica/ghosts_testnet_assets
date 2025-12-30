@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #960",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/main/images/960.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Airdrop"
+    },
+    {
+      "trait_type": "Face",
+      "value": "In The Hole"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "No Future"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Chatbot and Chill?"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
