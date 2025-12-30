@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #1193",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/main/images/1193.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Data Lord"
+    },
+    {
+      "trait_type": "Face",
+      "value": "DAMAGER"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "The Deadness"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
