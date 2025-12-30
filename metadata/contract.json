@@ -1,0 +1,8 @@
+{
+  "name": "Ghosts",
+  "description": "TODO: collection description",
+  "image": "ipfs://__CID__/collection.png",
+  "external_link": "https://example.com",
+  "seller_fee_basis_points": 2000,
+  "fee_recipient": "0x0000000000000000000000000000000000000000"
+}
