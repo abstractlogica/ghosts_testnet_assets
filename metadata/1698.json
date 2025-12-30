@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #1698",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/main/images/1698.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "JPEGS"
+    },
+    {
+      "trait_type": "Face",
+      "value": "The Doomed (red)"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Face - Skin, Bone, Blood"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "BeastMode"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
