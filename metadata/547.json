@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #547",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/main/images/547.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Ape Bait"
+    },
+    {
+      "trait_type": "Face",
+      "value": "A Coin for the Ferryman"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Influencer"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DAMAGER LUXE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rubble"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
