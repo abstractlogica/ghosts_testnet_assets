@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #1220",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/main/images/1220.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "DMs"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Man with new iPhone on the Hammersmith & City line"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Utopia"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GUZZLER"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
