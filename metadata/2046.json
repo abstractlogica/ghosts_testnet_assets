@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #2046",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/main/images/2046.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "FlySpy"
+    },
+    {
+      "trait_type": "Face",
+      "value": "DECAY"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let the bad times roll"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Your time won’t come."
+    },
+    {
+      "trait_type": "Head",
+      "value": "Gobble"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
