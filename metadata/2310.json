@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #2310",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/main/images/2310.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Data Lord"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tap your card when you're ready sir"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OVERWHELM"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GUZZLER"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
