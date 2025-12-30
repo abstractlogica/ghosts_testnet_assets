@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #2429",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/main/images/2429.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "DMs"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Ghouls"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "InstaBags"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fleshtrap"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryptoart drama level (extreme)"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
