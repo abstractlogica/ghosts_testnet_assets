@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #3164",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/main/images/3164.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Universe"
+    },
+    {
+      "trait_type": "Face",
+      "value": "summer.jpg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "The Beast"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "And how does that make you feel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cryptoart drama level (extreme)"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
