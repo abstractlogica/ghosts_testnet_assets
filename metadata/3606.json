@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #3606",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/main/images/3606.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "JPEGS"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Proof of War"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Right-click and Save As guy"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "PROTO-SHADY"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
