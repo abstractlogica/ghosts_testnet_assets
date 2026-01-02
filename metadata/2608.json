@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #2608",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/2608.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "DMs"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Proof of War"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ProtoViser"
+    },
+    {
+      "trait_type": "Head",
+      "value": "KNIFE CATCHER"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "REACHBACK"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
