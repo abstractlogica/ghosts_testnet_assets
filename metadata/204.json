@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #204",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/204.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Ape Bait"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Wretch Green"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "BANGERS AND CRASH"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Best-case Scenario"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
