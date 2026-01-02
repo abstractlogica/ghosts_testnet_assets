@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #1506",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/1506.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Save As"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Right-click and Save As guy"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ProtoViser"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "When Airdrop?"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
