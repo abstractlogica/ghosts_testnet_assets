@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #669",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/669.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "DMs"
+    },
+    {
+      "trait_type": "Face",
+      "value": "DAMAGER"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Your time won’t come."
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afterburn (green)"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "THE_HORROR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
