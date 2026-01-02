@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #2976",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/2976.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Ape Bait"
+    },
+    {
+      "trait_type": "Face",
+      "value": "You’re wasting your life. Literally."
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DAMAGER LUXE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rubble"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fleshtrap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
