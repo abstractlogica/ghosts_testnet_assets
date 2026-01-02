@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #2391",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/2391.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Ape Bait"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Space Junkie"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Utopia"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DISRUPTOR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
