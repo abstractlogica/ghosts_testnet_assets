@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #3125",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/3125.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Universe"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blood Run"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GUZZLER"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OVERWHELM"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
