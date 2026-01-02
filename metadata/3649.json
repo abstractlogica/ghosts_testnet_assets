@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #3649",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/3649.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Ghouls"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fleshtrap"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GOURMET SPICY"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
