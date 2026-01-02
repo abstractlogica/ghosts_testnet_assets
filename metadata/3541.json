@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #3541",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/3541.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Airdrop"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Proof of War"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ALGO BRO"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Guzzler"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}

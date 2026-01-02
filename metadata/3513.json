@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #3513",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/3513.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Universe"
+    },
+    {
+      "trait_type": "Face",
+      "value": "The Burning"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Your time won’t come."
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let the bad times roll"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
