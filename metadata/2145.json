@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #2145",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/2145.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "JPEGS"
+    },
+    {
+      "trait_type": "Face",
+      "value": "The Doomed"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MAX PAIN"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "REACHBACK"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
