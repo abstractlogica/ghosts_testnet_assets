@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #1974",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/1974.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Universe"
+    },
+    {
+      "trait_type": "Face",
+      "value": "summer.jpg"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Deathwave"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
