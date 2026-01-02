@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #1122",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/1122.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "FlySpy"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blood Run"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GUZZLER"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "You could seriously be a model"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
