@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #829",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/829.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "JPEGS"
+    },
+    {
+      "trait_type": "Face",
+      "value": "EXIT STRATEGY"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bad Flavour"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "The Beast"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Ghosts #821",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/821.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Face",
+      "value": "99 Billion Served"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Original"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Um Actually"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Uplander"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
