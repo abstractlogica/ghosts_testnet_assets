@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #2582",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/2582.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Ape Bait"
+    },
+    {
+      "trait_type": "Face",
+      "value": "The Doomed (red)"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DAMAGER LUXE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EVADER"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
