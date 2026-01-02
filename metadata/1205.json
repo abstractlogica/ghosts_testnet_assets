@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #1205",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/1205.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "JPEGS"
+    },
+    {
+      "trait_type": "Face",
+      "value": "God is typing..."
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ProtoViser"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
