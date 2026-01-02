@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #130",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/130.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "JPEGS"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blood Run"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "BOT_ROT"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Utopia"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}

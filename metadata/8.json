@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #8",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/8.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Universe"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "BANGERS AND CRASH"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "The Deadness"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
