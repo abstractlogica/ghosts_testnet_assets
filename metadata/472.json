@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #472",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/472.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Airdrop"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Space Junkie"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mortal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "WeWork Boi"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
