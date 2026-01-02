@@ -1,0 +1,38 @@
+{
+  "name": "Ghosts #3263",
+  "image": "https://raw.githubusercontent.com/AbstractLogica/ghosts_testnet_assets/refs/heads/main/images/3263.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "FlySpy"
+    },
+    {
+      "trait_type": "Face",
+      "value": "The Doomed (red)"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "trigger_optics"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
